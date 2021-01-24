@@ -17,3 +17,7 @@ I am want to learn a new profession. I am have no experience, but I'm used to al
 - RS School(studying)
 - Retraining center for military personnel
 
+###Languages
+
+
+- English (A2). I am trying to improve my language skills in English.
