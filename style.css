@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&family=Sriracha&display=swap');
+
+body { 
+    font-family: 'Sriracha', cursive;
+   background: url('https://wallpaperaccess.com/full/1659889.jpg');
+}
+
+.main {
+    font-size: 22px;
+    width: 800px;
+    height: auto;
+    margin: 10px auto 40px ;
+}
