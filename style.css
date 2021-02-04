@@ -5,7 +5,7 @@ body {
    background: url('https://wallpaperaccess.com/full/1659889.jpg');
 }
 
-.main { border: solid 2px red;
+.main {
     font-size: 22px;
     width: 800px;
     height: auto;
